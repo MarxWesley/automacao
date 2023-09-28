@@ -36,4 +36,3 @@ Fique à vontade para contribuir, sugerir melhorias ou reportar problemas criand
 
 ---
 
-Você pode personalizar ainda mais esta descrição de acordo com as necessidades do seu projeto. Se precisar de mais alguma coisa ou desejar alguma modificação específica, por favor, me avise!
