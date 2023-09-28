@@ -1,7 +1,3 @@
-Ótimo! Vamos criar a descrição (README) do seu portfólio com base nas informações fornecidas sobre a automação em Python para gerenciar um estoque de loja utilizando as bibliotecas `pyautogui` e `pandas` no VSCode.
-
----
-
 # Automação de Estoque de Loja com Python
 
 Este projeto de automação em Python foi desenvolvido para otimizar o gerenciamento de estoque de uma loja. A automação faz uso das bibliotecas `pyautogui` e `pandas` para realizar a leitura de dados de um arquivo CSV chamado "produtos.csv" e executar ações no computador para auxiliar no controle do estoque.
